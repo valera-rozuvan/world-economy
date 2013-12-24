@@ -1,19 +1,16 @@
 In-depth articles on world economics
 ------------------------------------
 
-Why Black Market Entrepreneurs Matter to the World ... [Wired - Dec 2011]
-
-http://www.wired.com/magazine/2011/12/mf_neuwirth_qa/
-
-
-How Did Economists Get It So Wrong? [The New York Times - Sep 2009]
-
-http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html?pagewanted=all&_r=0
+1. Why Black Market Entrepreneurs Matter to the World ... [Wired - Dec 2011]
+    http://www.wired.com/magazine/2011/12/mf_neuwirth_qa/
 
 
-The economics of video games [The Washington Post - Sep 2012]
+2. How Did Economists Get It So Wrong? [The New York Times - Sep 2009]
+    http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html?pagewanted=all&_r=0
 
-http://www.washingtonpost.com/blogs/wonkblog/wp/2012/09/28/the-economics-of-video-games/
+
+3. The economics of video games [The Washington Post - Sep 2012]
+    http://www.washingtonpost.com/blogs/wonkblog/wp/2012/09/28/the-economics-of-video-games/
 
 
 How Modern Economics Is Built On 'The World's ... [Forbes - Jul 2013]
