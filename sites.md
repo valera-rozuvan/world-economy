@@ -1,45 +1,45 @@
-http://www.paecon.net/PAEReview/
+1. http://www.paecon.net/PAEReview/
 
-http://www.paecon.net/
+2. http://www.paecon.net/
 
-http://www.springer.com/economics/international+economics/journal/10290
+3. http://www.springer.com/economics/international+economics/journal/10290
 
-http://link.springer.com/journal/10290
+4. http://link.springer.com/journal/10290
 
-http://ideas.repec.org/s/spr/weltar.html
+5. http://ideas.repec.org/s/spr/weltar.html
 
-https://www.facebook.com/worldeconomicforum
+6. https://www.facebook.com/worldeconomicforum
 
-http://forumblog.org/
+7. http://forumblog.org/
 
-http://www.theguardian.com/business/economics
+8. http://www.theguardian.com/business/economics
 
-http://www.theworldeconomy.org/
+9. http://www.theworldeconomy.org/
 
-http://www.unwe.bg/en/
+10. http://www.unwe.bg/en/
 
-http://www.world-economics-journal.com/
+11. http://www.world-economics-journal.com/
 
-http://www.weforum.org/
+12. http://www.weforum.org/
 
-http://www.worldeconomics.com/
+13. http://www.worldeconomics.com/
 
-http://en.wikipedia.org/wiki/World_economy
+14. http://en.wikipedia.org/wiki/World_economy
 
-http://www.worldeconomicsassociation.org/
+15. http://www.worldeconomicsassociation.org/
 
-http://www.economist.com/topics/world-economy
+16. http://www.economist.com/topics/world-economy
 
-http://rwer.wordpress.com/
+17. http://rwer.wordpress.com/
 
-http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-9701
+18. http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-9701
 
-http://www.ifw-kiel.de/publications/review-of-world-economics
+19. http://www.ifw-kiel.de/publications/review-of-world-economics
 
-http://www.usnews.com/topics/subjects/economy
+20. http://www.usnews.com/topics/subjects/economy
 
-http://articles.economictimes.indiatimes.com/keyword/world-economy
+21. http://articles.economictimes.indiatimes.com/keyword/world-economy
 
-http://articles.economictimes.indiatimes.com/keyword/world-economic-forum
+22. http://articles.economictimes.indiatimes.com/keyword/world-economic-forum
 
-http://www.weforum.org/issues/global-risks
+23. http://www.weforum.org/issues/global-risks
